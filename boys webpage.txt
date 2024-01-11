@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Owen and Ollie's Golfing Journey</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #2244aa;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+        }
+        section {
+            margin: 20px;
+        }
+        h2 {
+            color: #2244aa;
+        }
+        p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Owen and Ollie's Golfing Journey</h1>
+    </header>
+    <section>
+        <h2>About Us</h2>
+        <p>Welcome to our golfing journey! Follow along as Owen and Ollie Roach explore the world of golf and share their experiences.</p>
+    </section>
+    <section>
+        <h2>Owen's Achievements</h2>
+        <p>Insert information about Owen's golfing achievements, milestones, and progress.</p>
+    </section>
+    <section>
+        <h2>Ollie's Achievements</h2>
+        <p>Insert information about Ollie's golfing achievements, milestones, and progress.</p>
+    </section>
+    <section>
+        <h2>Contact Us</h2>
+        <p>Feel free to reach out if you have any questions or if you'd like to connect. Email: your@email.com</p>
+    </section>
+</body>
+</html>
+
